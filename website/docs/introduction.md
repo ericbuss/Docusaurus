@@ -86,6 +86,28 @@ Docusaurus 2 follows [The PRPL Pattern](https://developers.google.com/web/fundam
 
 Attention to accessibility, making your site equally accessible to all users.
 
+## Comparison with other Tools
+
+### Gatsby
+
+Gatsby is packed with a lot of features, has a rich ecosystem of plugins and is capable of doing everything that Docusaurus does. Naturally, that comes at a cost of a higher learning curve. Gatsby tries to do many things well, while Docusaurus tries to do one thing super well - be the best tool for writing and publishing content.
+
+GraphQL is also pretty core to Gatsby, although you don't necessarily need GraphQL to build a Gatsby site. In most cases when building static websites, you won't need the flexibility that GraphQL provides.
+
+Many aspects of Docusaurus 2 were inspired by the best things about Gatsby and it's a great alternative.
+
+### GitBook
+
+The primary problem with GitBook is that the team behind it is more focused on turning it into a commercial product rather than an open-source tool. It also has a lot of problems that Docusaurus doesn't have. That's why [Redux switched to Docusaurus](https://github.com/reduxjs/redux/issues/3161). It is only free for open-source and non-profit teams. Docusaurus is free for everyone.
+
+### Jekyll
+
+Jekyll is one of the most mature static site generators around and has been a great tool to use - in fact, before Docusaurus, most of Facebook's Open Source websites are/were built on Jekyll! It is extremely simple to get started. However, Jekyll generates static HTML and it is hard to build websites with interactivity involved as you would have to embed `<script>` tags all over. A basic Jekyll website only supports a very basic blog, and a great deal of set up is needed to make it suitable for writing documentation. Jekyll is also written in Ruby and it isn't the fastest in terms of performance when you have a lot of content. Jekyll's build pipeline for non-CSS assets aren't great either. If you don't need the interactivity and do not care about a build pipeline to optimize your assets, Jekyll is still a great choice.
+
+### VuePress
+
+VuePress has many similarities with Docusaurus - both focus heavily on content-centric website and provides tailored documentation features out of the box. However, VuePress is powered by Vue, while Docusaurus is powered by React. If you wanted a Vue-based solution, VuePress would be a decent choice.
+
 ## Staying Informed
 
 - [GitHub](https://github.com/facebook/docusaurus)
