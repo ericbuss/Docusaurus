@@ -78,7 +78,9 @@ Many aspects of Docusaurus 2 were inspired by the best things about Gatsby and i
 
 ### GitBook
 
-The primary problem with GitBook is that the team behind it is more focused on turning it into a commercial product rather than an open-source tool. It also has a lot of problems that Docusaurus doesn't have. That's why [Redux switched to Docusaurus](https://github.com/reduxjs/redux/issues/3161). It is only free for open-source and non-profit teams. Docusaurus is free for everyone.
+Gitbook has very clean slate design and has been used by many open source projects. With its focus shifting towards a commercial product rather than an open-source tool, many of its requirements no longer fit the needs as an open source project's doc site. As a result, many have to turn to other products. [You may read about Redux's switch to Docusaurus here](https://github.com/reduxjs/redux/issues/3161).
+
+Currently, Gitbook is only free for open-source and non-profit teams. Docusaurus is free for everyone.
 
 ### Jekyll
 
