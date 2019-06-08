@@ -28,63 +28,43 @@ Beyond that, Docusaurus 2 is a **performant static site generator** and can be u
 
 While our main focus will still be helping you get your documentations right and well, the shared nature of building this static site generator makes it possible for you to build your whole website interface one-stop.
 
-## You gotta love building your doc site
+## Features
 
-### ⚛️ Built with 💚 and React
+### You gotta love building your doc site
 
-Extend and customize with React, gain full control of your site's browsing experience by `swizzling` in your own components without having to build the whole site.
+Docusaurus is built with high attention to your experience building your site and maintaining it with your collaborators and contributors.
 
-### 🔌 Pluggable
+- ⚛️ **Built with 💚 and React**
+  - Extend and customize with React
+  - Gain full control of your site's browsing experience by `swizzling` in your own components
+- 🔌 **Pluggable**
+  - Bootstrap your site with a basic template, then pick and plug functionalities built by us and our community.
+  - Open source your plugins to share with your fellow documentarians, because sharing is caring.
+- ✂️ **Developer experience**
+  - Multiple bootstrapping templates to get your site up and running, start writing your docs right now
+  - Universal configuration entry point to make it easily maintainable by contributors
+  - Hot reloading with lightning fast incremental build on changes
+  - Route-based code and data splitting
+  - Publish to GitHub Pages, Netlify, and other deployment services with ease
 
-Bootstrap your site with a basic template, then pick and plug functionalities built by us and our community.
-
-Open source your plugins to share with your fellow documentarians, because sharing is caring.
-
-### ✂️ Developer experience
-
-Docusaurus is built with high attention to your experience building your site and maintaining it with your collaborators and contributors. We're proud to ship our dinosaurs with:
-
-- Multiple bootstrapping templates to get your site up and running, start writing your docs right now
-- Universal configuration entry point to make it easily maintainable by contributors
-- Hot reloading with lightning fast incremental build on changes
-- Route-based code and data splitting
-- Publish to GitHub Pages, Netlify, and other deployment services with ease
-
-## need a title here
+### Doc site for your users
 
 With the experience of Docusaurus 1, we share with you our best practices to help you build your doc site. Our shared goal -- helping your users find what they need fast and understand your products better.
 
-### 🎯 SEO friendly
+- 🎯 **SEO friendly**
+  - `index.html` files are statically generated for every possible path
+  - page-specific SEO to help your users land on your official docs directly relating their problems at hand
+- 📝 **Powerd by MDX**
+  - Write interactive components via JSX and React embedded in markdown
+  - Share your code in live editors to get your users love your products on the spot
+- 🔍 **Search** Your full set of docs is searchable
+- 🌍 **i18n** (_coming soon_)
+- 💾 **Versioning** (_coming soon_)
 
-`index.html` files are statically generated for every possible path. Build page-specific SEO to help your users land on your official docs directly relating their problems at hand.
+### Optimized and accessible
 
-### 📝 Powerd by MDX
-
-Write interactive components via JSX and React embedded in markdown. And share your code in live editors to get your users love your products on the spot.
-
-### 🔍 Search
-
-Your full set of docs is searchable.
-
-### 🌍 i18n (_coming soon_)
-
-Internationalize your website easily.
-
-### 💾 Versioning (_coming soon_)
-
-Move forward with your products without losing care for older versions.
-
-Welcome your edging users with your _next_ version on the home page. Embrace Documentation-Driven Development, always stay up-to-date with your docs.
-
-## Optimized and accessible
-
-### ⚡️ Lightning fast
-
-Docusaurus 2 follows [The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) that makes sure your content loads blazing fast.
-
-### 🦖 Accessible
-
-Attention to accessibility, making your site equally accessible to all users.
+- ⚡️ **Lightning fast** Docusaurus 2 follows [The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) that makes sure your content loads blazing fast
+- 🦖 **Accessible** Attention to accessibility, making your site equally accessible to all users
 
 ## Comparison with other Tools
 
